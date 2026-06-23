@@ -1,6 +1,6 @@
 {
-  "version": "4.56.0",
-  "notes": "Initial release with admin system, ambassador program, and emergency lock fixes.",
+  "version": "0.1.0",
+  "notes": "Initial release — admin system, ambassador program, emergency lock fixes.",
   "pub_date": "2026-03-09T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
