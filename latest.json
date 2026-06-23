@@ -1,0 +1,23 @@
+{
+  "version": "4.56.0",
+  "notes": "Initial release with admin system, ambassador program, and emergency lock fixes.",
+  "pub_date": "2026-03-09T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "darwin-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "darwin-aarch64": {
+      "signature": "",
+      "url": ""
+    },
+    "linux-x86_64": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}
